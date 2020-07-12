@@ -34,6 +34,7 @@ describe('Prueba de checkbox', function() {
         
         cy.get('.btn.btn-primary.btn-lg.btn-block').should('be.enabled').should('be.visible').click()
 
+// Hasta acá llega la prueba para esa página
 
     })
 
